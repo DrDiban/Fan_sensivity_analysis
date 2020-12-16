@@ -1,2 +1,2 @@
-# Fan_sensivity_analysis
+# Fan_sensitivity_analysis
 Analysis of football fan tweet
